@@ -1,3 +1,3 @@
-# Motivo
+# Notas
 
-Este repo sirve para hacer pruebas
+Este proyecto se encarga de manejar los planes de la liga de la justicia
